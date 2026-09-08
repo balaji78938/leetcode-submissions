@@ -3,18 +3,16 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        zeroinFirstCol = False
-        for row in range(len(matrix)):
-            if matrix[row][0] == 0:
-                zeroinFirstCol = True
-            for col in range(1, len(matrix[0])):
-                if matrix[row][col] == 0:
-                    matrix[row][0] = 0
-                    matrix[0][col] = 0
-
-        for row in range(len(matrix) - 1, -1, -1):
-            for col in range(len(matrix[0]) - 1, 0, -1):
-                if matrix[row][0] == 0 or matrix[0][col] == 0:
-                    matrix[row][col] = 0
-            if zeroinFirstCol:
-                matrix[row][0] = 0
+        rows=set()
+        cols=set()
+        m=len(matrix)
+        n=len(matrix[0])
+        for i in range(m):
+            for j in range(n):
+                if matrix[i][j]==0:
+                    rows.add(i)
+                    cols.add(j)
+        for i in range(m):
+            for j in range(n):
+                if i in rows or j in cols:
+                    matrix[i][j]=0
