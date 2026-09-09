@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/balaji78938/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/balaji78938/leetcode-submissions/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
