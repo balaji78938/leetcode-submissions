@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/balaji78938/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/balaji78938/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3912-valid-elements-in-an-array](https://github.com/balaji78938/leetcode-submissions/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/balaji78938/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/balaji78938/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/balaji78938/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/balaji78938/leetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
