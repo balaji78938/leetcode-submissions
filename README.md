@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/balaji78938/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0414-third-maximum-number](https://github.com/balaji78938/leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/balaji78938/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3912-valid-elements-in-an-array](https://github.com/balaji78938/leetcode-submissions/tree/master/3912-valid-elements-in-an-array) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/balaji78938/leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/balaji78938/leetcode-submissions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
