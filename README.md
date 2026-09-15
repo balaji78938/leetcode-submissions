@@ -71,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/balaji78938/leetcode-submissions/tree/master/0166-fraction-to-recurring-decimal) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/balaji78938/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/0165-compare-version-numbers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/balaji78938/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/balaji78938/leetcode-submissions/tree/master/0404-sum-of-left-leaves) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/balaji78938/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/balaji78938/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
