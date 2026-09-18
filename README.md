@@ -77,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/balaji78938/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/balaji78938/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/0165-compare-version-numbers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/balaji78938/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/balaji78938/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/balaji78938/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/balaji78938/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/balaji78938/leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
