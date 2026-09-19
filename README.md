@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/balaji78938/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0414-third-maximum-number](https://github.com/balaji78938/leetcode-submissions/tree/master/0414-third-maximum-number) |
+| [1470-shuffle-the-array](https://github.com/balaji78938/leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/balaji78938/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/balaji78938/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
