@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/balaji78938/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/balaji78938/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balaji78938/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/balaji78938/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/balaji78938/leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/balaji78938/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/balaji78938/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/balaji78938/leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/balaji78938/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/balaji78938/leetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/balaji78938/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/balaji78938/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/balaji78938/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/balaji78938/leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
