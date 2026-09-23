@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/balaji78938/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/balaji78938/leetcode-submissions/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/balaji78938/leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/balaji78938/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/balaji78938/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/balaji78938/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/balaji78938/leetcode-submissions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/balaji78938/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/balaji78938/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balaji78938/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/balaji78938/leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/balaji78938/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balaji78938/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/balaji78938/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Number Theory
 |  |
@@ -173,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/balaji78938/leetcode-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
