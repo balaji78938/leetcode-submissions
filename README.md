@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/balaji78938/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/balaji78938/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/balaji78938/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/balaji78938/leetcode-submissions/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/balaji78938/leetcode-submissions/tree/master/0414-third-maximum-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/balaji78938/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/balaji78938/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/balaji78938/leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/balaji78938/leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/0165-compare-version-numbers) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/balaji78938/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/balaji78938/leetcode-submissions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/balaji78938/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/balaji78938/leetcode-submissions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/balaji78938/leetcode-submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
