@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/balaji78938/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/balaji78938/leetcode-submissions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/balaji78938/leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/balaji78938/leetcode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3912-valid-elements-in-an-array](https://github.com/balaji78938/leetcode-submissions/tree/master/3912-valid-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/balaji78938/leetcode-submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/balaji78938/leetcode-submissions/tree/master/0204-count-primes) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/balaji78938/leetcode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/balaji78938/leetcode-submissions/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
