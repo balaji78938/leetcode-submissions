@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/balaji78938/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/balaji78938/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/balaji78938/leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/balaji78938/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/balaji78938/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/balaji78938/leetcode-submissions/tree/master/0169-majority-element) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/balaji78938/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/balaji78938/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/balaji78938/leetcode-submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
